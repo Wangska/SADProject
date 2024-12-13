@@ -10,18 +10,18 @@
 		</div>
 		<!-- Navigation starts -->
       <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">  
-	  <ul class="nav navbar-nav">  
-          <!-- Upload to server link. Class "dropdown-big" creates big dropdown 
-      
+	      <ul class="nav navbar-nav">  
+            <!-- Upload to server link. Class "dropdown-big" creates big dropdown 
+        
 
-          <!-- Upload to server link. Class "dropdown-big" creates big dropdown -->
-          <li class="dropdown dropdown-big">
-            <a href="#"><span class = "label label-info"><i class="fa fa-facebook"></i></span> Like us on Facebook</a>            
-          </li>
-          <!-- Sync to server link -->
-          <li class="dropdown dropdown-big">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="label label-primary"><i class="fa fa-twitter"></i></span> Follow is on Twitter</a>
-            <!-- Dropdown -->
+            <!-- Upload to server link. Class "dropdown-big" creates big dropdown -->
+            <li class="dropdown dropdown-big">
+              <a href="#"><span class = "label label-info"><i class="fa fa-facebook"></i></span> Like us on Facebook</a>            
+            </li>
+            <!-- Sync to server link -->
+            <li class="dropdown dropdown-big">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="label label-primary"><i class="fa fa-twitter"></i></span> Follow is on Twitter</a>
+              <!-- Dropdown -->
 
           </li>
 

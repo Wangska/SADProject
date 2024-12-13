@@ -25,7 +25,7 @@ endif;
       <span>Menu Order</span>
       </button>
       <!-- Site name for smallar screens -->
-      <a href="index.html" class="navbar-brand hidden-lg">Lee Pipez</a>
+      <a href="index.html" class="navbar-brand hidden-lg">Cocina Calza</a>
     </div>
       
       <?php include('../includes/topbar.php');?>
